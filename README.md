@@ -68,5 +68,6 @@ Test data provided by https://github.com/mohitbhatia1994/NumberToWords
 
 Copyright © 2016 Thomas van der Veen
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+   Apache License
+   Version 2.0, January 2004
+  http://www.apache.org/licenses/
