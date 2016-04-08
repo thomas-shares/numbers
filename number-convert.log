@@ -1,0 +1,600 @@
+2016-04-07 17:37:30 INFO  core:288 - Validating use input 0
+2016-04-07 17:37:30 INFO  core:288 - Valid number  0
+2016-04-07 17:37:30 INFO  core:288 - Validating use input 1
+2016-04-07 17:37:30 INFO  core:288 - Valid number  1
+2016-04-07 17:37:30 INFO  core:288 - Validating use input -1
+2016-04-07 17:37:30 INFO  core:288 - Number to small or big  -1
+2016-04-07 17:37:30 INFO  core:288 - Validating use input asdf
+2016-04-07 17:37:30 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-07 17:37:30 INFO  core:288 - Validating use input 1000
+2016-04-07 17:37:30 INFO  core:288 - Valid number  1000
+2016-04-07 17:37:30 INFO  core:288 - Validating use input 1001
+2016-04-07 17:37:30 INFO  core:288 - Number to small or big  1001
+2016-04-07 17:38:05 INFO  core:288 - Validating use input 0
+2016-04-07 17:38:05 INFO  core:288 - Valid number  0
+2016-04-07 17:38:05 INFO  core:288 - Validating use input 1
+2016-04-07 17:38:05 INFO  core:288 - Valid number  1
+2016-04-07 17:38:05 INFO  core:288 - Validating use input -1
+2016-04-07 17:38:05 INFO  core:288 - Number to small or big  -1
+2016-04-07 17:38:05 INFO  core:288 - Validating use input asdf
+2016-04-07 17:38:05 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-07 17:38:05 INFO  core:288 - Validating use input 1000
+2016-04-07 17:38:05 INFO  core:288 - Valid number  1000
+2016-04-07 17:38:05 INFO  core:288 - Validating use input 1001
+2016-04-07 17:38:05 INFO  core:288 - Number to small or big  1001
+2016-04-07 17:53:16 INFO  core:288 - Validating use input 0
+2016-04-07 17:53:16 INFO  core:288 - Valid number  0
+2016-04-07 17:53:16 INFO  core:288 - Validating use input 1
+2016-04-07 17:53:16 INFO  core:288 - Valid number  1
+2016-04-07 17:53:16 INFO  core:288 - Validating use input -1
+2016-04-07 17:53:16 INFO  core:288 - Number to small or big  -1
+2016-04-07 17:53:16 INFO  core:288 - Validating use input asdf
+2016-04-07 17:53:16 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-07 17:53:16 INFO  core:288 - Validating use input 1000
+2016-04-07 17:53:16 INFO  core:288 - Valid number  1000
+2016-04-07 17:53:16 INFO  core:288 - Validating use input 1001
+2016-04-07 17:53:16 INFO  core:288 - Number to small or big  1001
+2016-04-07 17:55:10 INFO  core:288 - Validating use input 0
+2016-04-07 17:55:10 INFO  core:288 - Valid number  0
+2016-04-07 17:55:10 INFO  core:288 - Validating use input 1
+2016-04-07 17:55:10 INFO  core:288 - Valid number  1
+2016-04-07 17:55:10 INFO  core:288 - Validating use input -1
+2016-04-07 17:55:10 INFO  core:288 - Number to small or big  -1
+2016-04-07 17:55:10 INFO  core:288 - Validating use input asdf
+2016-04-07 17:55:10 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-07 17:55:10 INFO  core:288 - Validating use input 1000
+2016-04-07 17:55:10 INFO  core:288 - Valid number  1000
+2016-04-07 17:55:10 INFO  core:288 - Validating use input 1001
+2016-04-07 17:55:10 INFO  core:288 - Number to small or big  1001
+2016-04-07 17:56:18 INFO  core:288 - Validating use input 0
+2016-04-07 17:56:18 INFO  core:288 - Valid number  0
+2016-04-07 17:56:18 INFO  core:288 - Validating use input 1
+2016-04-07 17:56:18 INFO  core:288 - Valid number  1
+2016-04-07 17:56:18 INFO  core:288 - Validating use input -1
+2016-04-07 17:56:18 INFO  core:288 - Number to small or big  -1
+2016-04-07 17:56:18 INFO  core:288 - Validating use input asdf
+2016-04-07 17:56:18 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-07 17:56:18 INFO  core:288 - Validating use input 1000
+2016-04-07 17:56:18 INFO  core:288 - Valid number  1000
+2016-04-07 17:56:18 INFO  core:288 - Validating use input 1001
+2016-04-07 17:56:18 INFO  core:288 - Number to small or big  1001
+2016-04-07 17:58:26 INFO  core:288 - Validating use input 0
+2016-04-07 17:58:26 INFO  core:288 - Valid number  0
+2016-04-07 17:58:26 INFO  core:288 - Validating use input 1
+2016-04-07 17:58:26 INFO  core:288 - Valid number  1
+2016-04-07 17:58:26 INFO  core:288 - Validating use input -1
+2016-04-07 17:58:26 INFO  core:288 - Number to small or big  -1
+2016-04-07 17:58:26 INFO  core:288 - Validating use input asdf
+2016-04-07 17:58:26 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-07 17:58:26 INFO  core:288 - Validating use input 1000
+2016-04-07 17:58:26 INFO  core:288 - Valid number  1000
+2016-04-07 17:58:26 INFO  core:288 - Validating use input 1001
+2016-04-07 17:58:26 INFO  core:288 - Number to small or big  1001
+2016-04-08 11:47:25 INFO  core:288 - Validating use input 0
+2016-04-08 11:47:25 INFO  core:288 - Valid number  0
+2016-04-08 11:47:25 INFO  core:288 - Validating use input 1
+2016-04-08 11:47:25 INFO  core:288 - Valid number  1
+2016-04-08 11:47:25 INFO  core:288 - Validating use input -1
+2016-04-08 11:47:25 INFO  core:288 - Number to small or big  -1
+2016-04-08 11:47:25 INFO  core:288 - Validating use input asdf
+2016-04-08 11:47:25 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 11:47:25 INFO  core:288 - Validating use input 1000
+2016-04-08 11:47:25 INFO  core:288 - Valid number  1000
+2016-04-08 11:47:25 INFO  core:288 - Validating use input 1001
+2016-04-08 11:47:25 INFO  core:288 - Number to small or big  1001
+2016-04-08 11:47:53 INFO  core:288 - Validating use input 0
+2016-04-08 11:47:53 INFO  core:288 - Valid number  0
+2016-04-08 11:47:53 INFO  core:288 - Validating use input 1
+2016-04-08 11:47:53 INFO  core:288 - Valid number  1
+2016-04-08 11:47:53 INFO  core:288 - Validating use input -1
+2016-04-08 11:47:53 INFO  core:288 - Number to small or big  -1
+2016-04-08 11:47:53 INFO  core:288 - Validating use input asdf
+2016-04-08 11:47:53 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 11:47:53 INFO  core:288 - Validating use input 1000
+2016-04-08 11:47:53 INFO  core:288 - Valid number  1000
+2016-04-08 11:47:53 INFO  core:288 - Validating use input 1001
+2016-04-08 11:47:53 INFO  core:288 - Number to small or big  1001
+2016-04-08 11:48:01 INFO  core:288 - Validating use input 0
+2016-04-08 11:48:01 INFO  core:288 - Valid number  0
+2016-04-08 11:48:01 INFO  core:288 - Validating use input 1
+2016-04-08 11:48:01 INFO  core:288 - Valid number  1
+2016-04-08 11:48:01 INFO  core:288 - Validating use input -1
+2016-04-08 11:48:01 INFO  core:288 - Number to small or big  -1
+2016-04-08 11:48:01 INFO  core:288 - Validating use input asdf
+2016-04-08 11:48:01 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 11:48:01 INFO  core:288 - Validating use input 1000
+2016-04-08 11:48:01 INFO  core:288 - Valid number  1000
+2016-04-08 11:48:01 INFO  core:288 - Validating use input 1001
+2016-04-08 11:48:01 INFO  core:288 - Number to small or big  1001
+2016-04-08 11:48:10 INFO  core:288 - Validating use input 0
+2016-04-08 11:48:10 INFO  core:288 - Valid number  0
+2016-04-08 11:48:10 INFO  core:288 - Validating use input 1
+2016-04-08 11:48:10 INFO  core:288 - Valid number  1
+2016-04-08 11:48:10 INFO  core:288 - Validating use input -1
+2016-04-08 11:48:10 INFO  core:288 - Number to small or big  -1
+2016-04-08 11:48:10 INFO  core:288 - Validating use input asdf
+2016-04-08 11:48:10 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 11:48:10 INFO  core:288 - Validating use input 1000
+2016-04-08 11:48:10 INFO  core:288 - Valid number  1000
+2016-04-08 11:48:10 INFO  core:288 - Validating use input 1001
+2016-04-08 11:48:10 INFO  core:288 - Number to small or big  1001
+2016-04-08 11:48:36 INFO  core:288 - Validating use input 0
+2016-04-08 11:48:36 INFO  core:288 - Valid number  0
+2016-04-08 11:48:36 INFO  core:288 - Validating use input 1
+2016-04-08 11:48:36 INFO  core:288 - Valid number  1
+2016-04-08 11:48:36 INFO  core:288 - Validating use input -1
+2016-04-08 11:48:36 INFO  core:288 - Number to small or big  -1
+2016-04-08 11:48:36 INFO  core:288 - Validating use input asdf
+2016-04-08 11:48:36 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 11:48:36 INFO  core:288 - Validating use input 1000
+2016-04-08 11:48:36 INFO  core:288 - Valid number  1000
+2016-04-08 11:48:36 INFO  core:288 - Validating use input 1001
+2016-04-08 11:48:36 INFO  core:288 - Number to small or big  1001
+2016-04-08 11:48:51 INFO  core:288 - Validating use input 0
+2016-04-08 11:48:51 INFO  core:288 - Valid number  0
+2016-04-08 11:48:51 INFO  core:288 - Validating use input 1
+2016-04-08 11:48:51 INFO  core:288 - Valid number  1
+2016-04-08 11:48:51 INFO  core:288 - Validating use input -1
+2016-04-08 11:48:51 INFO  core:288 - Number to small or big  -1
+2016-04-08 11:48:51 INFO  core:288 - Validating use input asdf
+2016-04-08 11:48:51 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 11:48:51 INFO  core:288 - Validating use input 1000
+2016-04-08 11:48:51 INFO  core:288 - Valid number  1000
+2016-04-08 11:48:51 INFO  core:288 - Validating use input 1001
+2016-04-08 11:48:51 INFO  core:288 - Number to small or big  1001
+2016-04-08 11:49:08 INFO  core:288 - Validating use input 0
+2016-04-08 11:49:08 INFO  core:288 - Valid number  0
+2016-04-08 11:49:08 INFO  core:288 - Validating use input 1
+2016-04-08 11:49:08 INFO  core:288 - Valid number  1
+2016-04-08 11:49:08 INFO  core:288 - Validating use input -1
+2016-04-08 11:49:08 INFO  core:288 - Number to small or big  -1
+2016-04-08 11:49:08 INFO  core:288 - Validating use input asdf
+2016-04-08 11:49:08 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 11:49:08 INFO  core:288 - Validating use input 1000
+2016-04-08 11:49:08 INFO  core:288 - Valid number  1000
+2016-04-08 11:49:08 INFO  core:288 - Validating use input 1001
+2016-04-08 11:49:08 INFO  core:288 - Number to small or big  1001
+2016-04-08 11:49:36 INFO  core:288 - Validating use input 0
+2016-04-08 11:49:36 INFO  core:288 - Valid number  0
+2016-04-08 11:49:36 INFO  core:288 - Validating use input 1
+2016-04-08 11:49:36 INFO  core:288 - Valid number  1
+2016-04-08 11:49:36 INFO  core:288 - Validating use input -1
+2016-04-08 11:49:36 INFO  core:288 - Number to small or big  -1
+2016-04-08 11:49:36 INFO  core:288 - Validating use input asdf
+2016-04-08 11:49:36 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 11:49:36 INFO  core:288 - Validating use input 1000
+2016-04-08 11:49:36 INFO  core:288 - Valid number  1000
+2016-04-08 11:49:36 INFO  core:288 - Validating use input 1001
+2016-04-08 11:49:36 INFO  core:288 - Number to small or big  1001
+2016-04-08 11:54:16 INFO  core:288 - Validating use input 0
+2016-04-08 11:54:16 INFO  core:288 - Valid number  0
+2016-04-08 11:54:16 INFO  core:288 - Validating use input 1
+2016-04-08 11:54:16 INFO  core:288 - Valid number  1
+2016-04-08 11:54:16 INFO  core:288 - Validating use input -1
+2016-04-08 11:54:16 INFO  core:288 - Number to small or big  -1
+2016-04-08 11:54:16 INFO  core:288 - Validating use input asdf
+2016-04-08 11:54:16 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 11:54:16 INFO  core:288 - Validating use input 1000
+2016-04-08 11:54:16 INFO  core:288 - Valid number  1000
+2016-04-08 11:54:16 INFO  core:288 - Validating use input 1001
+2016-04-08 11:54:16 INFO  core:288 - Number to small or big  1001
+2016-04-08 11:55:25 INFO  core:288 - Validating use input 0
+2016-04-08 11:55:25 INFO  core:288 - Valid number  0
+2016-04-08 11:55:25 INFO  core:288 - Validating use input 1
+2016-04-08 11:55:25 INFO  core:288 - Valid number  1
+2016-04-08 11:55:25 INFO  core:288 - Validating use input -1
+2016-04-08 11:55:25 INFO  core:288 - Number to small or big  -1
+2016-04-08 11:55:25 INFO  core:288 - Validating use input asdf
+2016-04-08 11:55:25 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 11:55:25 INFO  core:288 - Validating use input 1000
+2016-04-08 11:55:25 INFO  core:288 - Valid number  1000
+2016-04-08 11:55:25 INFO  core:288 - Validating use input 1001
+2016-04-08 11:55:25 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:06:52 INFO  core:288 - Validating use input 0
+2016-04-08 12:06:52 INFO  core:288 - Valid number  0
+2016-04-08 12:06:53 INFO  core:288 - Validating use input 1
+2016-04-08 12:06:53 INFO  core:288 - Valid number  1
+2016-04-08 12:06:53 INFO  core:288 - Validating use input -1
+2016-04-08 12:06:53 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:06:53 INFO  core:288 - Validating use input asdf
+2016-04-08 12:06:53 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:06:53 INFO  core:288 - Validating use input 1000
+2016-04-08 12:06:53 INFO  core:288 - Valid number  1000
+2016-04-08 12:06:53 INFO  core:288 - Validating use input 1001
+2016-04-08 12:06:53 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:07:07 INFO  core:288 - Validating use input 0
+2016-04-08 12:07:07 INFO  core:288 - Valid number  0
+2016-04-08 12:07:07 INFO  core:288 - Validating use input 1
+2016-04-08 12:07:07 INFO  core:288 - Valid number  1
+2016-04-08 12:07:07 INFO  core:288 - Validating use input -1
+2016-04-08 12:07:07 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:07:07 INFO  core:288 - Validating use input asdf
+2016-04-08 12:07:07 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:07:07 INFO  core:288 - Validating use input 1000
+2016-04-08 12:07:07 INFO  core:288 - Valid number  1000
+2016-04-08 12:07:07 INFO  core:288 - Validating use input 1001
+2016-04-08 12:07:07 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:07:23 INFO  core:288 - Validating use input 0
+2016-04-08 12:07:23 INFO  core:288 - Valid number  0
+2016-04-08 12:07:23 INFO  core:288 - Validating use input 1
+2016-04-08 12:07:23 INFO  core:288 - Valid number  1
+2016-04-08 12:07:23 INFO  core:288 - Validating use input -1
+2016-04-08 12:07:23 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:07:23 INFO  core:288 - Validating use input asdf
+2016-04-08 12:07:23 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:07:23 INFO  core:288 - Validating use input 1000
+2016-04-08 12:07:23 INFO  core:288 - Valid number  1000
+2016-04-08 12:07:23 INFO  core:288 - Validating use input 1001
+2016-04-08 12:07:23 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:07:50 INFO  core:288 - Validating use input 0
+2016-04-08 12:07:50 INFO  core:288 - Valid number  0
+2016-04-08 12:07:50 INFO  core:288 - Validating use input 1
+2016-04-08 12:07:50 INFO  core:288 - Valid number  1
+2016-04-08 12:07:50 INFO  core:288 - Validating use input -1
+2016-04-08 12:07:50 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:07:50 INFO  core:288 - Validating use input asdf
+2016-04-08 12:07:50 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:07:50 INFO  core:288 - Validating use input 1000
+2016-04-08 12:07:50 INFO  core:288 - Valid number  1000
+2016-04-08 12:07:50 INFO  core:288 - Validating use input 1001
+2016-04-08 12:07:50 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:08:05 INFO  core:288 - Validating use input 0
+2016-04-08 12:08:05 INFO  core:288 - Valid number  0
+2016-04-08 12:08:05 INFO  core:288 - Validating use input 1
+2016-04-08 12:08:05 INFO  core:288 - Valid number  1
+2016-04-08 12:08:05 INFO  core:288 - Validating use input -1
+2016-04-08 12:08:05 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:08:05 INFO  core:288 - Validating use input asdf
+2016-04-08 12:08:05 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:08:05 INFO  core:288 - Validating use input 1000
+2016-04-08 12:08:05 INFO  core:288 - Valid number  1000
+2016-04-08 12:08:05 INFO  core:288 - Validating use input 1001
+2016-04-08 12:08:05 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:09:52 INFO  core:288 - Validating use input 0
+2016-04-08 12:09:52 INFO  core:288 - Valid number  0
+2016-04-08 12:09:52 INFO  core:288 - Validating use input 1
+2016-04-08 12:09:52 INFO  core:288 - Valid number  1
+2016-04-08 12:09:52 INFO  core:288 - Validating use input -1
+2016-04-08 12:09:52 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:09:52 INFO  core:288 - Validating use input asdf
+2016-04-08 12:09:52 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:09:52 INFO  core:288 - Validating use input 1000
+2016-04-08 12:09:52 INFO  core:288 - Valid number  1000
+2016-04-08 12:09:52 INFO  core:288 - Validating use input 1001
+2016-04-08 12:09:52 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:09:59 INFO  core:288 - Validating use input 0
+2016-04-08 12:09:59 INFO  core:288 - Valid number  0
+2016-04-08 12:09:59 INFO  core:288 - Validating use input 1
+2016-04-08 12:09:59 INFO  core:288 - Valid number  1
+2016-04-08 12:09:59 INFO  core:288 - Validating use input -1
+2016-04-08 12:09:59 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:09:59 INFO  core:288 - Validating use input asdf
+2016-04-08 12:09:59 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:09:59 INFO  core:288 - Validating use input 1000
+2016-04-08 12:09:59 INFO  core:288 - Valid number  1000
+2016-04-08 12:09:59 INFO  core:288 - Validating use input 1001
+2016-04-08 12:09:59 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:39:42 INFO  core:288 - Validating use input 0
+2016-04-08 12:39:42 INFO  core:288 - Valid number  0
+2016-04-08 12:39:42 INFO  core:288 - Validating use input 1
+2016-04-08 12:39:42 INFO  core:288 - Valid number  1
+2016-04-08 12:39:42 INFO  core:288 - Validating use input -1
+2016-04-08 12:39:42 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:39:42 INFO  core:288 - Validating use input asdf
+2016-04-08 12:39:42 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:39:42 INFO  core:288 - Validating use input 1000
+2016-04-08 12:39:42 INFO  core:288 - Valid number  1000
+2016-04-08 12:39:42 INFO  core:288 - Validating use input 1001
+2016-04-08 12:39:42 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:49:19 INFO  core:288 - Validating use input 0
+2016-04-08 12:49:19 INFO  core:288 - Valid number  0
+2016-04-08 12:49:19 INFO  core:288 - Validating use input 1
+2016-04-08 12:49:19 INFO  core:288 - Valid number  1
+2016-04-08 12:49:19 INFO  core:288 - Validating use input -1
+2016-04-08 12:49:19 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:49:19 INFO  core:288 - Validating use input asdf
+2016-04-08 12:49:19 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:49:19 INFO  core:288 - Validating use input 1000
+2016-04-08 12:49:19 INFO  core:288 - Valid number  1000
+2016-04-08 12:49:19 INFO  core:288 - Validating use input 1001
+2016-04-08 12:49:19 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:50:30 INFO  core:288 - Validating use input 0
+2016-04-08 12:50:30 INFO  core:288 - Valid number  0
+2016-04-08 12:50:30 INFO  core:288 - Validating use input 1
+2016-04-08 12:50:30 INFO  core:288 - Valid number  1
+2016-04-08 12:50:30 INFO  core:288 - Validating use input -1
+2016-04-08 12:50:30 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:50:30 INFO  core:288 - Validating use input asdf
+2016-04-08 12:50:30 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:50:30 INFO  core:288 - Validating use input 1000
+2016-04-08 12:50:30 INFO  core:288 - Valid number  1000
+2016-04-08 12:50:30 INFO  core:288 - Validating use input 1001
+2016-04-08 12:50:30 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:50:52 INFO  core:288 - Validating use input 0
+2016-04-08 12:50:52 INFO  core:288 - Valid number  0
+2016-04-08 12:50:52 INFO  core:288 - Validating use input 1
+2016-04-08 12:50:52 INFO  core:288 - Valid number  1
+2016-04-08 12:50:52 INFO  core:288 - Validating use input -1
+2016-04-08 12:50:52 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:50:52 INFO  core:288 - Validating use input asdf
+2016-04-08 12:50:52 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:50:52 INFO  core:288 - Validating use input 1000
+2016-04-08 12:50:52 INFO  core:288 - Valid number  1000
+2016-04-08 12:50:52 INFO  core:288 - Validating use input 1001
+2016-04-08 12:50:52 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:52:14 INFO  core:288 - Validating use input 0
+2016-04-08 12:52:14 INFO  core:288 - Valid number  0
+2016-04-08 12:52:14 INFO  core:288 - Validating use input 1
+2016-04-08 12:52:14 INFO  core:288 - Valid number  1
+2016-04-08 12:52:14 INFO  core:288 - Validating use input -1
+2016-04-08 12:52:14 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:52:14 INFO  core:288 - Validating use input asdf
+2016-04-08 12:52:14 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:52:14 INFO  core:288 - Validating use input 1000
+2016-04-08 12:52:14 INFO  core:288 - Valid number  1000
+2016-04-08 12:52:14 INFO  core:288 - Validating use input 1001
+2016-04-08 12:52:14 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:52:21 INFO  core:288 - Validating use input 0
+2016-04-08 12:52:21 INFO  core:288 - Valid number  0
+2016-04-08 12:52:21 INFO  core:288 - Validating use input 1
+2016-04-08 12:52:21 INFO  core:288 - Valid number  1
+2016-04-08 12:52:21 INFO  core:288 - Validating use input -1
+2016-04-08 12:52:21 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:52:21 INFO  core:288 - Validating use input asdf
+2016-04-08 12:52:21 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:52:21 INFO  core:288 - Validating use input 1000
+2016-04-08 12:52:21 INFO  core:288 - Valid number  1000
+2016-04-08 12:52:21 INFO  core:288 - Validating use input 1001
+2016-04-08 12:52:21 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:53:53 INFO  core:288 - Validating use input 0
+2016-04-08 12:53:53 INFO  core:288 - Valid number  0
+2016-04-08 12:53:53 INFO  core:288 - Validating use input 1
+2016-04-08 12:53:53 INFO  core:288 - Valid number  1
+2016-04-08 12:53:53 INFO  core:288 - Validating use input -1
+2016-04-08 12:53:53 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:53:53 INFO  core:288 - Validating use input asdf
+2016-04-08 12:53:53 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:53:53 INFO  core:288 - Validating use input 1000
+2016-04-08 12:53:53 INFO  core:288 - Valid number  1000
+2016-04-08 12:53:53 INFO  core:288 - Validating use input 1001
+2016-04-08 12:53:53 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:54:22 INFO  core:288 - Validating use input 0
+2016-04-08 12:54:22 INFO  core:288 - Valid number  0
+2016-04-08 12:54:22 INFO  core:288 - Validating use input 1
+2016-04-08 12:54:22 INFO  core:288 - Valid number  1
+2016-04-08 12:54:22 INFO  core:288 - Validating use input -1
+2016-04-08 12:54:22 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:54:22 INFO  core:288 - Validating use input asdf
+2016-04-08 12:54:22 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:54:22 INFO  core:288 - Validating use input 1000
+2016-04-08 12:54:22 INFO  core:288 - Valid number  1000
+2016-04-08 12:54:22 INFO  core:288 - Validating use input 1001
+2016-04-08 12:54:22 INFO  core:288 - Number to small or big  1001
+2016-04-08 12:54:56 INFO  core:288 - Validating use input 0
+2016-04-08 12:54:56 INFO  core:288 - Valid number  0
+2016-04-08 12:54:56 INFO  core:288 - Validating use input 1
+2016-04-08 12:54:56 INFO  core:288 - Valid number  1
+2016-04-08 12:54:56 INFO  core:288 - Validating use input -1
+2016-04-08 12:54:56 INFO  core:288 - Number to small or big  -1
+2016-04-08 12:54:56 INFO  core:288 - Validating use input asdf
+2016-04-08 12:54:56 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 12:54:56 INFO  core:288 - Validating use input 1000
+2016-04-08 12:54:56 INFO  core:288 - Valid number  1000
+2016-04-08 12:54:56 INFO  core:288 - Validating use input 1001
+2016-04-08 12:54:56 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:04:55 INFO  core:288 - Validating use input 0
+2016-04-08 13:04:55 INFO  core:288 - Valid number  0
+2016-04-08 13:04:55 INFO  core:288 - Validating use input 1
+2016-04-08 13:04:55 INFO  core:288 - Valid number  1
+2016-04-08 13:04:55 INFO  core:288 - Validating use input -1
+2016-04-08 13:04:55 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:04:55 INFO  core:288 - Validating use input asdf
+2016-04-08 13:04:55 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:04:55 INFO  core:288 - Validating use input 1000
+2016-04-08 13:04:55 INFO  core:288 - Valid number  1000
+2016-04-08 13:04:55 INFO  core:288 - Validating use input 1001
+2016-04-08 13:04:55 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:05:19 INFO  core:288 - Validating use input 0
+2016-04-08 13:05:19 INFO  core:288 - Valid number  0
+2016-04-08 13:05:19 INFO  core:288 - Validating use input 1
+2016-04-08 13:05:19 INFO  core:288 - Valid number  1
+2016-04-08 13:05:19 INFO  core:288 - Validating use input -1
+2016-04-08 13:05:19 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:05:19 INFO  core:288 - Validating use input asdf
+2016-04-08 13:05:19 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:05:19 INFO  core:288 - Validating use input 1000
+2016-04-08 13:05:19 INFO  core:288 - Valid number  1000
+2016-04-08 13:05:19 INFO  core:288 - Validating use input 1001
+2016-04-08 13:05:19 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:05:38 INFO  core:288 - Validating use input 0
+2016-04-08 13:05:38 INFO  core:288 - Valid number  0
+2016-04-08 13:05:38 INFO  core:288 - Validating use input 1
+2016-04-08 13:05:38 INFO  core:288 - Valid number  1
+2016-04-08 13:05:38 INFO  core:288 - Validating use input -1
+2016-04-08 13:05:38 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:05:38 INFO  core:288 - Validating use input asdf
+2016-04-08 13:05:38 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:05:38 INFO  core:288 - Validating use input 1000
+2016-04-08 13:05:38 INFO  core:288 - Valid number  1000
+2016-04-08 13:05:38 INFO  core:288 - Validating use input 1001
+2016-04-08 13:05:38 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:05:54 INFO  core:288 - Validating use input 0
+2016-04-08 13:05:54 INFO  core:288 - Valid number  0
+2016-04-08 13:05:54 INFO  core:288 - Validating use input 1
+2016-04-08 13:05:54 INFO  core:288 - Valid number  1
+2016-04-08 13:05:54 INFO  core:288 - Validating use input -1
+2016-04-08 13:05:54 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:05:54 INFO  core:288 - Validating use input asdf
+2016-04-08 13:05:54 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:05:54 INFO  core:288 - Validating use input 1000
+2016-04-08 13:05:54 INFO  core:288 - Valid number  1000
+2016-04-08 13:05:54 INFO  core:288 - Validating use input 1001
+2016-04-08 13:05:54 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:06:35 INFO  core:288 - Validating use input 0
+2016-04-08 13:06:35 INFO  core:288 - Valid number  0
+2016-04-08 13:06:35 INFO  core:288 - Validating use input 1
+2016-04-08 13:06:35 INFO  core:288 - Valid number  1
+2016-04-08 13:06:35 INFO  core:288 - Validating use input -1
+2016-04-08 13:06:35 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:06:35 INFO  core:288 - Validating use input asdf
+2016-04-08 13:06:35 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:06:35 INFO  core:288 - Validating use input 1000
+2016-04-08 13:06:35 INFO  core:288 - Valid number  1000
+2016-04-08 13:06:35 INFO  core:288 - Validating use input 1001
+2016-04-08 13:06:35 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:07:12 INFO  core:288 - Validating use input 0
+2016-04-08 13:07:12 INFO  core:288 - Valid number  0
+2016-04-08 13:07:12 INFO  core:288 - Validating use input 1
+2016-04-08 13:07:12 INFO  core:288 - Valid number  1
+2016-04-08 13:07:12 INFO  core:288 - Validating use input -1
+2016-04-08 13:07:12 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:07:12 INFO  core:288 - Validating use input asdf
+2016-04-08 13:07:12 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:07:12 INFO  core:288 - Validating use input 1000
+2016-04-08 13:07:12 INFO  core:288 - Valid number  1000
+2016-04-08 13:07:12 INFO  core:288 - Validating use input 1001
+2016-04-08 13:07:12 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:09:30 INFO  core:288 - Validating use input 0
+2016-04-08 13:09:30 INFO  core:288 - Valid number  0
+2016-04-08 13:09:30 INFO  core:288 - Validating use input 1
+2016-04-08 13:09:30 INFO  core:288 - Valid number  1
+2016-04-08 13:09:30 INFO  core:288 - Validating use input -1
+2016-04-08 13:09:30 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:09:30 INFO  core:288 - Validating use input asdf
+2016-04-08 13:09:30 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:09:30 INFO  core:288 - Validating use input 1000
+2016-04-08 13:09:30 INFO  core:288 - Valid number  1000
+2016-04-08 13:09:30 INFO  core:288 - Validating use input 1001
+2016-04-08 13:09:30 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:11:15 INFO  core:288 - Validating use input 0
+2016-04-08 13:11:15 INFO  core:288 - Valid number  0
+2016-04-08 13:11:15 INFO  core:288 - Validating use input 1
+2016-04-08 13:11:15 INFO  core:288 - Valid number  1
+2016-04-08 13:11:15 INFO  core:288 - Validating use input -1
+2016-04-08 13:11:15 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:11:15 INFO  core:288 - Validating use input asdf
+2016-04-08 13:11:15 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:11:15 INFO  core:288 - Validating use input 1000
+2016-04-08 13:11:15 INFO  core:288 - Valid number  1000
+2016-04-08 13:11:15 INFO  core:288 - Validating use input 1001
+2016-04-08 13:11:15 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:13:07 INFO  core:288 - Validating use input 0
+2016-04-08 13:13:07 INFO  core:288 - Valid number  0
+2016-04-08 13:13:07 INFO  core:288 - Validating use input 1
+2016-04-08 13:13:07 INFO  core:288 - Valid number  1
+2016-04-08 13:13:07 INFO  core:288 - Validating use input -1
+2016-04-08 13:13:07 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:13:07 INFO  core:288 - Validating use input asdf
+2016-04-08 13:13:07 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:13:07 INFO  core:288 - Validating use input 1000
+2016-04-08 13:13:07 INFO  core:288 - Valid number  1000
+2016-04-08 13:13:07 INFO  core:288 - Validating use input 1001
+2016-04-08 13:13:07 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:13:58 INFO  core:288 - Validating use input 0
+2016-04-08 13:13:58 INFO  core:288 - Valid number  0
+2016-04-08 13:13:58 INFO  core:288 - Validating use input 1
+2016-04-08 13:13:58 INFO  core:288 - Valid number  1
+2016-04-08 13:13:58 INFO  core:288 - Validating use input -1
+2016-04-08 13:13:58 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:13:58 INFO  core:288 - Validating use input asdf
+2016-04-08 13:13:58 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:13:58 INFO  core:288 - Validating use input 1000
+2016-04-08 13:13:58 INFO  core:288 - Valid number  1000
+2016-04-08 13:13:58 INFO  core:288 - Validating use input 1001
+2016-04-08 13:13:58 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:23:09 INFO  core:288 - Validating use input 0
+2016-04-08 13:23:09 INFO  core:288 - Valid number  0
+2016-04-08 13:23:09 INFO  core:288 - Validating use input 1
+2016-04-08 13:23:09 INFO  core:288 - Valid number  1
+2016-04-08 13:23:09 INFO  core:288 - Validating use input -1
+2016-04-08 13:23:09 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:23:09 INFO  core:288 - Validating use input asdf
+2016-04-08 13:23:09 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:23:09 INFO  core:288 - Validating use input 1000
+2016-04-08 13:23:09 INFO  core:288 - Valid number  1000
+2016-04-08 13:23:09 INFO  core:288 - Validating use input 1001
+2016-04-08 13:23:09 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:23:11 INFO  core:288 - Validating use input 0
+2016-04-08 13:23:11 INFO  core:288 - Valid number  0
+2016-04-08 13:23:11 INFO  core:288 - Validating use input 1
+2016-04-08 13:23:11 INFO  core:288 - Valid number  1
+2016-04-08 13:23:11 INFO  core:288 - Validating use input -1
+2016-04-08 13:23:11 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:23:11 INFO  core:288 - Validating use input asdf
+2016-04-08 13:23:11 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:23:11 INFO  core:288 - Validating use input 1000
+2016-04-08 13:23:11 INFO  core:288 - Valid number  1000
+2016-04-08 13:23:11 INFO  core:288 - Validating use input 1001
+2016-04-08 13:23:11 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:31:44 INFO  core:288 - Validating use input 0
+2016-04-08 13:31:44 INFO  core:288 - Valid number  0
+2016-04-08 13:31:44 INFO  core:288 - Validating use input 1
+2016-04-08 13:31:44 INFO  core:288 - Valid number  1
+2016-04-08 13:31:44 INFO  core:288 - Validating use input -1
+2016-04-08 13:31:44 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:31:44 INFO  core:288 - Validating use input asdf
+2016-04-08 13:31:44 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:31:44 INFO  core:288 - Validating use input 1000
+2016-04-08 13:31:44 INFO  core:288 - Valid number  1000
+2016-04-08 13:31:44 INFO  core:288 - Validating use input 1001
+2016-04-08 13:31:44 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:31:49 INFO  core:288 - Validating use input 0
+2016-04-08 13:31:49 INFO  core:288 - Valid number  0
+2016-04-08 13:31:49 INFO  core:288 - Validating use input 1
+2016-04-08 13:31:49 INFO  core:288 - Valid number  1
+2016-04-08 13:31:49 INFO  core:288 - Validating use input -1
+2016-04-08 13:31:49 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:31:49 INFO  core:288 - Validating use input asdf
+2016-04-08 13:31:49 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:31:49 INFO  core:288 - Validating use input 1000
+2016-04-08 13:31:49 INFO  core:288 - Valid number  1000
+2016-04-08 13:31:49 INFO  core:288 - Validating use input 1001
+2016-04-08 13:31:49 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:33:10 INFO  core:288 - Validating use input 0
+2016-04-08 13:33:10 INFO  core:288 - Valid number  0
+2016-04-08 13:33:10 INFO  core:288 - Validating use input 1
+2016-04-08 13:33:10 INFO  core:288 - Valid number  1
+2016-04-08 13:33:10 INFO  core:288 - Validating use input -1
+2016-04-08 13:33:10 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:33:10 INFO  core:288 - Validating use input asdf
+2016-04-08 13:33:10 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:33:10 INFO  core:288 - Validating use input 1000
+2016-04-08 13:33:10 INFO  core:288 - Valid number  1000
+2016-04-08 13:33:10 INFO  core:288 - Validating use input 1001
+2016-04-08 13:33:10 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:33:50 INFO  core:288 - Validating use input 0
+2016-04-08 13:33:50 INFO  core:288 - Valid number  0
+2016-04-08 13:33:50 INFO  core:288 - Validating use input 1
+2016-04-08 13:33:50 INFO  core:288 - Valid number  1
+2016-04-08 13:33:50 INFO  core:288 - Validating use input -1
+2016-04-08 13:33:50 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:33:50 INFO  core:288 - Validating use input asdf
+2016-04-08 13:33:50 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:33:50 INFO  core:288 - Validating use input 1000
+2016-04-08 13:33:50 INFO  core:288 - Valid number  1000
+2016-04-08 13:33:50 INFO  core:288 - Validating use input 1001
+2016-04-08 13:33:50 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:34:06 INFO  core:288 - Validating use input 0
+2016-04-08 13:34:06 INFO  core:288 - Valid number  0
+2016-04-08 13:34:06 INFO  core:288 - Validating use input 1
+2016-04-08 13:34:06 INFO  core:288 - Valid number  1
+2016-04-08 13:34:06 INFO  core:288 - Validating use input -1
+2016-04-08 13:34:06 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:34:06 INFO  core:288 - Validating use input asdf
+2016-04-08 13:34:06 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:34:06 INFO  core:288 - Validating use input 1000
+2016-04-08 13:34:06 INFO  core:288 - Valid number  1000
+2016-04-08 13:34:06 INFO  core:288 - Validating use input 1001
+2016-04-08 13:34:06 INFO  core:288 - Number to small or big  1001
+2016-04-08 13:34:48 INFO  core:288 - Validating use input 0
+2016-04-08 13:34:48 INFO  core:288 - Valid number  0
+2016-04-08 13:34:48 INFO  core:288 - Validating use input 1
+2016-04-08 13:34:48 INFO  core:288 - Valid number  1
+2016-04-08 13:34:48 INFO  core:288 - Validating use input -1
+2016-04-08 13:34:48 INFO  core:288 - Number to small or big  -1
+2016-04-08 13:34:48 INFO  core:288 - Validating use input asdf
+2016-04-08 13:34:48 INFO  core:288 - Failed to parse input, not a number:  asdf
+2016-04-08 13:34:48 INFO  core:288 - Validating use input 1000
+2016-04-08 13:34:48 INFO  core:288 - Valid number  1000
+2016-04-08 13:34:48 INFO  core:288 - Validating use input 1001
+2016-04-08 13:34:48 INFO  core:288 - Number to small or big  1001
