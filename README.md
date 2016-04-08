@@ -23,6 +23,7 @@ Logging levels can be adjusted in the log4j.properties in the resources director
 
 Below is a list of all the dependencies and their license:
 
+```clojure
 ([[org.clojure/math.combinatorics "0.1.1"] "Eclipse Public License 1.0"]
  [[org.clojure/clojure "1.8.0"] "Eclipse Public License 1.0"]
  [[org.tcrawley/dynapath "0.2.3"] "Eclipse Public License"]
@@ -59,6 +60,7 @@ Below is a list of all the dependencies and their license:
  [[slingshot "0.12.2"] "Eclipse Public License 1.0"]
  [[commons-codec "1.10"] "Apache License, Version 2.0"]
  [[joda-time "2.8.2"] "Apache 2"])
+```
 
 Test data provided by https://github.com/mohitbhatia1994/NumberToWords
 
